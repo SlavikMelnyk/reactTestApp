@@ -21,7 +21,7 @@
   6) run command 'npm run build'
 ##### !!! I received an error "'cp' is not recognized as an internal or external command"
 ##### To resolve this problem I installed cygwin terminal on my machine (from cygwin.com) 
-##### and runned last command ones again in this terminal
+##### and runned last command ones again in this terminal (for moving to app destination use 'cd /cygdrive/c/Desktop/appFolder' syntax)
 
 ### If you're done and everything is OK, you should receive in your console an address (http://localhost:8080 for ex)
 ### Open it in your browser and have fun with this app)
